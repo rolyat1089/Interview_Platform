@@ -9,7 +9,7 @@ Scaler Interview Platform for internship
 ## Installation
 1. Clone this repository on local machine
 ```
-git clone https://github.com/as'dlfka'sd
+git clone https://github.com/rolyat1089/Interview_Platform.git
 ```
 2. Create and activate a python virtual environment
 ```
