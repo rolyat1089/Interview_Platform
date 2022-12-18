@@ -1,5 +1,5 @@
-# Scaler Interview Platform 
-Scaler Interview Platform for internship
+# Interview Platform 
+Interview Platform for internship
 
 
 ## Tech Stack Used:
