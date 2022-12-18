@@ -1,5 +1,5 @@
 # Interview Platform 
-Interview Platform for internship
+Interview Platform
 
 
 ## Tech Stack Used:
